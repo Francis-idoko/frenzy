@@ -1,0 +1,27 @@
+{
+    "product":[
+        {
+        "id": 1,
+        "name": "rice",
+        "price": 4000,
+        "size": "4kg"
+
+
+    },
+    {
+      "id": 2,
+      "name": "rice",
+      "price": 4000,
+      "size": "4kg"
+    },
+    {
+      "id": 3,
+      "name": "rice",
+      "price": 4000,
+      "size": "4kg"
+    }
+
+]
+
+
+}
